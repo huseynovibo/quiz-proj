@@ -1,0 +1,71 @@
+img {
+  max-width: 100%;
+}
+
+.hero {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.hero .login-form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 30px;
+}
+.hero .login-form .img2 {
+  display: flex;
+}
+.hero .login-form .pleystore {
+  width: 110px;
+  height: 40px;
+}
+.hero .login-form .microsoft {
+  width: 110px;
+  height: 40px;
+}
+.hero .login-form .subtitle {
+  background-color: aliceblue;
+  width: 350px;
+  display: flex;
+  justify-content: center;
+}
+.hero .writing {
+  background-color: rgb(241, 241, 241);
+  width: 350px;
+  height: 410px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.hero .writing input {
+  width: 230px;
+  height: 32px;
+  border-radius: 10px;
+  border: 1px solid azure;
+  background-color: azure;
+}
+.hero .writing button {
+  color: aliceblue;
+  background-color: rgb(53, 118, 238);
+  width: 238px;
+  height: 32px;
+  border-radius: 10px;
+  border: 1px solid azure;
+}
+.hero .writing img {
+  width: 171px;
+  height: 50px;
+}
+.hero .writing h3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.hero .writing .icons {
+  display: flex;
+  align-items: center;
+}/*# sourceMappingURL=style.css.map */
